@@ -10,7 +10,7 @@
 **Análise de Dados & BI:**  <br>![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)<br>![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)<br>![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)<br>![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)<br><br><br><br> <p> 
 ### 🚀 Em constante evolução<br><br> <p> 
 Atualmente estou me aprofundando em:<br>- 📊 **Análise de Dados com Python**<br>- 🧠 **Ferramentas de BI**<br>- 📈 **Visualização e tomada de decisão baseada em dados**<br><br><br><br> <p> 
-📬 Contato<br><br>- ✉️ Email: guilhermecanedo09@gmail.com  <br>- 📞 Telefone: (61) 98137-6849  <br>- 💼 LinkedIn – guilhermecanedoti  <br> <br><br><br><br>💡 *"A melhor forma de prever o futuro é criá-lo."*<br>
+## 📬 Contato<br><br>- ✉️ Email: guilhermecanedo09@gmail.com  <br>- 📞 Telefone: (61) 98137-6849  <br>- 💼 LinkedIn – guilhermecanedoti  <br> <br><br><br><br>💡 *"A melhor forma de prever o futuro é criá-lo."*<br>
 
 
 ## 🌐 Socials:
