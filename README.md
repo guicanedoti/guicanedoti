@@ -11,7 +11,7 @@
 ### 🚀 Em constante evolução<br><br> <p> 
 Atualmente estou me aprofundando em:<br>- 📊 **Análise de Dados com Python**<br>- 🧠 **Ferramentas de BI**<br>- 📈 **Visualização e tomada de decisão baseada em dados**<br><br><br><br> <p> 
 ## 📬 Contato <br>
- - ✉️ Email: guilhermecanedo09@gmail.com  <br>- 📞 Telefone: (61) 98137-6849  <br>- 💼 LinkedIn – guilhermecanedoti  <br> <br><br><br><br>💡 *"A melhor forma de prever o futuro é criá-lo."*<br>
+   - ✉️ Email: guilhermecanedo09@gmail.com  <br>- 📞 Telefone: (61) 98137-6849  <br>- 💼 LinkedIn – guilhermecanedoti  <br> <br><br><br><br>💡 *"A melhor forma de prever o futuro é criá-lo."*<br>
 
 
 ## 🌐 Socials:
