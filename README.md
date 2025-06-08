@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 ## 👋 Olá! Eu sou o Guilherme<br><br>Sou desenvolvedor **Full Stack** com foco em aplicações web, apaixonado por tecnologia e sempre em busca de novos aprendizados. Tenho experiência com frameworks Python, especialmente **Django**, e estou expandindo meus horizontes para o universo de **Análise de Dados** e **Business Intelligence**.<br><br> 
-🎓 Atualmente sou estudante de **Ciências da Computação** no **UDF  – Centro Universitário do Distrito Federal**.<br><br> <br><br> 
+🎓 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** no **UDF  – Centro Universitário do Distrito Federal**.<br><br> <br><br> 
 
 ### 🛠️ Tecnologias & Ferramentas<br><br>**Desenvolvimento Web:**  <br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)<br>![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)<br>![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)<br>![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)<br>![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  <p> 
 <br><br>**DevOps e Colaboração:**  <br>![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)<br>![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)<br><br>  <p> 
